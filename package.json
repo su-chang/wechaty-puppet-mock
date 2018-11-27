@@ -79,7 +79,7 @@
     "normalize-package-data": "^2.4.0",
     "qr-image": "^3.2.0",
     "quick-lru": "^1.1.0",
-    "state-switch": "^0.6.2",
+    "state-switch": "^0.6.12",
     "watchdog": "^0.8.10"
   }
 }
