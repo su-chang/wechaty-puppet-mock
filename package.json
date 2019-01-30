@@ -76,7 +76,7 @@
   "dependencies": {
     "brolog": "^1.6.5",
     "hot-import": "^0.2.1",
-    "normalize-package-data": "^2.4.0",
+    "normalize-package-data": "^2.4.2",
     "qr-image": "^3.2.0",
     "quick-lru": "^2.0.0",
     "state-switch": "^0.6.2",
